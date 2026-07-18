@@ -107,3 +107,16 @@ $env:GROQ_API_KEY="your_api_key_here"
 * AI-based posture correction systems
 * Rehabilitation and physiotherapy tools
 * Sports training analytics
+
+
+---
+
+
+## 🌐 Live Demo
+
+| Demo | Link |
+|------|------|
+| 🎨 Landing Page | https://ai-gym-coach-kucchi.netlify.app/ |
+| 🚀 AI Gym Coach App | https://gym-ai-ktza6eugztgvzjkpumvctr.streamlit.app/ |
+
+> **Note:** Camera permission is required for real-time pose detection and AI coaching.
